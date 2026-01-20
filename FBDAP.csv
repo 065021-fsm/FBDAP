@@ -1,0 +1,448 @@
+Date,Description,Category,Type,Person,Amount
+10/21/2025,Metro,Travel,H,Archit,54
+10/22/2025,Zomato,Food,H,Archit,170
+10/23/2025,Misc Exp,Miscellaneous,H,Archit,25
+10/24/2025,Metro,Travel,H,Archit,54
+10/25/2025,Petrol,Travel,H,Archit,500
+10/26/2025,Payment to Friend,Personal,H,Archit,200
+10/27/2025,Zomato,Food,H,Archit,216
+10/27/2025,Payment to Friend,Personal,H,Archit,100
+10/28/2025,Diet Coke,Food,H,Archit,40
+10/28/2025,Netflix,Entertainment,H,Archit,199
+10/28/2025,Birthday Cake,Food,H,Archit,484
+10/22/2025,Bike Taxi,Travel,H,Akshit,25
+10/22/2025,Food,Food,H,Akshit,70
+10/22/2025,Food,Food,H,Akshit,60
+10/22/2025,Bike Taxi,Travel,H,Akshit,25
+10/23/2025,Bike Taxi,Travel,H,Akshit,25
+10/23/2025,Food,Food,H,Akshit,80
+10/23/2025,Zepto,Food,H,Akshit,240
+10/24/2025,Food,Food,H,Akshit,105
+10/25/2025,Drink,Food,H,Akshit,40
+10/26/2025,Bike Taxi,Travel,H,Akshit,25
+10/28/2025,Bike Taxi,Travel,H,Akshit,25
+10/28/2025,Food,Food,H,Akshit,120
+10/28/2025,Drink,Food,H,Akshit,40
+10/22/2025,Parking,Travel,D,Bhavya_Gupta,70
+10/22/2025,Food,Food,D,Bhavya_Gupta,100
+10/22/2025,Fuel,Travel,D,Bhavya_Gupta,1000
+10/23/2025,Parking,Travel,D,Bhavya_Gupta,70
+10/23/2025,Food,Food,D,Bhavya_Gupta,100
+10/24/2025,Lunch with friends,Food,D,Bhavya_Gupta,800
+10/25/2025,Online food,Food,D,Bhavya_Gupta,230
+10/25/2025,Dance workshop,Entertainment,D,Bhavya_Gupta,799
+10/25/2025,Parking,Travel,D,Bhavya_Gupta,70
+10/25/2025,Metro - Ghitorni,Travel,D,Bhavya_Gupta,64
+10/25/2025,E-Rick,Travel,D,Bhavya_Gupta,25
+10/26/2025,Personal Care,Personal,D,Bhavya_Gupta,1000
+10/26/2025,Parking,Travel,D,Bhavya_Gupta,70
+10/27/2025,Parking,Travel,D,Bhavya_Gupta,70
+10/28/2025,Parking,Travel,D,Bhavya_Gupta,70
+10/21/2025,travel,Travel,H,Charvi,450
+10/21/2025,food,Food,H,Charvi,590
+10/22/2025,travel,Travel,H,Charvi,693
+10/22/2025,food,Food,H,Charvi,189
+10/23/2025,travel,Travel,H,Charvi,90
+10/23/2025,food,Food,H,Charvi,260
+10/24/2025,food,Food,H,Charvi,461
+10/25/2025,food,Food,H,Charvi,455
+10/26/2025,online order,Personal,H,Charvi,353
+10/27/2025,travel,Travel,H,Charvi,160
+10/28/2025,food,Food,H,Charvi,623
+10/28/2025,online order,Personal,H,Charvi,1010
+10/28/2025,travel,Travel,H,Charvi,140
+10/21/2025,Food,Food,D,Jatin,100
+10/22/2025,Taxi charges,Travel,D,Jatin,462
+10/23/2025,Groceries,Groceries,D,Jatin,145
+10/23/2025,Canteen food,Food,D,Jatin,80
+10/28/2025,Canteen expenses,Food,D,Jatin,80
+10/22/2025,Misc,Miscellaneous,D,Rakshit,252
+10/22/2025,Cab,Travel,D,Rakshit,360
+10/22/2025,Cab,Travel,D,Rakshit,487
+10/23/2025,Cab,Travel,D,Rakshit,385
+10/23/2025,Food,Food,D,Rakshit,490
+10/24/2025,Food,Food,D,Rakshit,480
+10/25/2025,Misc,Miscellaneous,D,Rakshit,125
+10/25/2025,Coffee,Food,D,Rakshit,430
+10/26/2025,Misc,Miscellaneous,D,Rakshit,120
+10/28/2025,Cab,Travel,D,Rakshit,431
+10/28/2025,Food,Food,D,Rakshit,250
+10/28/2025,Cab,Travel,D,Rakshit,370
+10/21/2025,Auto,Travel,D,Bhavya_Goel,210
+10/21/2025,Auto,Travel,D,Bhavya_Goel,194
+10/22/2025,Auto,Travel,D,Bhavya_Goel,500
+10/22/2025,Medicine,Medical,D,Bhavya_Goel,5000
+10/23/2025,Envelope,General,D,Bhavya_Goel,360
+10/23/2025,Blinkit,General,D,Bhavya_Goel,410
+10/23/2025,Chips and snacks,Food,D,Bhavya_Goel,80
+10/23/2025,Dining Out,Food,D,Bhavya_Goel,2000
+10/24/2025,Auto,Travel,D,Bhavya_Goel,112
+10/24/2025,Auto,Travel,D,Bhavya_Goel,150
+10/24/2025,Blinkit,Groceries,D,Bhavya_Goel,450
+10/25/2025,Auto,Travel,D,Bhavya_Goel,161
+10/25/2025,Auto,Travel,D,Bhavya_Goel,121
+10/26/2025,Auto,Travel,D,Bhavya_Goel,113
+10/26/2025,Auto,Travel,D,Bhavya_Goel,123
+10/26/2025,Zomato,Food,D,Bhavya_Goel,470
+10/26/2025,Blikit,Groceries,D,Bhavya_Goel,752
+10/27/2025,Auto,Travel,D,Bhavya_Goel,116
+10/27/2025,Auto,Travel,D,Bhavya_Goel,127
+10/28/2025,Auto,Travel,D,Bhavya_Goel,117
+10/28/2025,Tea+snacks,Food,D,Bhavya_Goel,122
+10/28/2025,Food order,Food,D,Bhavya_Goel,230
+10/28/2025,Auto,Travel,D,Bhavya_Goel,120
+10/21/2025,Tea,Food,H,Gauri,52
+10/21/2025,Zomato,Food,H,Gauri,170
+10/21/2025,Tea snacks,Food,H,Gauri,52
+10/22/2025,Swiggy,Food,H,Gauri,500
+10/23/2025,Payment to Friend,Personal,H,Gauri,200
+10/23/2025,Zomato,Food,H,Gauri,216
+10/25/2025,Fruits,Groceries,H,Gauri,300
+10/25/2025,Daily Needs,Groceries,H,Gauri,600
+10/26/2025,Snacks,Food,H,Gauri,100
+10/26/2025,Drinks,Food,H,Gauri,40
+10/27/2025,Netflix + Amazon,Entertainment,H,Gauri,1299
+10/27/2025,Snacks,Food,H,Gauri,72
+10/28/2025,Zomato,Food,H,Gauri,325
+10/28/2025,Fruits + household,Groceries,H,Gauri,750
+10/21/2025,Auto,Travel,D,Ishita,80
+10/21/2025,Metro,Travel,D,Ishita,100
+10/21/2025,Snacks,Food,D,Ishita,120
+10/22/2025,Auto,Travel,D,Ishita,80
+10/22/2025,Metro,Travel,D,Ishita,100
+10/22/2025,Golgapa,Food,D,Ishita,30
+10/23/2025,Burger,Food,D,Ishita,100
+10/23/2035,miscellaneous,Miscellanous,D,Ishita,800
+10/24/2025,Auto,Travel,D,Ishita,80
+10/24/2025,Metro,Travel,D,Ishita,100
+10/24/2025,Swiggy,Food,D,Ishita,230
+10/25/2025,Auto,Travel,D,Ishita,80
+10/25/2025,Metro,Travel,D,Ishita,50
+10/26/2025,Auto,Travel,D,Ishita,80
+10/26/2025,Metro,Travel,D,Ishita,100
+10/27/2025,Auto,Travel,D,Ishita,250
+10/27/2025,Metro,Travel,D,Ishita,50
+10/28/2025,Metro,Travel,D,Ishita,50
+10/28/2025,Auto,Travel,D,Ishita,80
+10/28/2025,Metro,Travel,D,Ishita,50
+10/28/2025,Gave moment,Personal,D,Ishita,450
+10/21/2025,Auto,Travel,D,Manya,80
+10/21/2025,Metro,Travel,D,Manya,50
+10/21/2025,Snacks,Food,D,Manya,120
+10/22/2025,Auto,Travel,D,Manya,80
+10/22/2025,Metro,Travel,D,Manya,50
+10/22/2025,Golgapa,Food,D,Manya,30
+10/22/2025,Burger,Food,D,Manya,100
+10/22/2035,miscellaneous,Miscellaneous,D,Manya,390
+10/24/2025,Auto,Travel,D,Manya,80
+10/24/2025,Metro,Travel,D,Manya,50
+10/24/2025,Swiggy,Food,D,Manya,230
+10/25/2025,Auto,Travel,D,Manya,80
+10/25/2025,Metro,Travel,D,Manya,50
+10/25/2025,Snacks,Food,D,Manya,80
+10/26/2025,Auto,Food,D,Manya,80
+10/26/2025,Metro,Travel,D,Manya,50
+10/27/2025,Auto,Travel,D,Manya,80
+10/27/2025,Metro,Travel,D,Manya,50
+10/21/2025,Fries,Food,H,Archita,106
+10/21/2025,Automatic,Miscellaneous,H,Archita,46
+10/21/2025,Auto,Travel,H,Archita,60
+10/22/2025,Morning Auto,Travel,H,Archita,60
+10/22/2025,Auto,Travel,H,Archita,77
+10/22/2025,Auto,Travel,H,Archita,60
+10/22/2025,Auto,Travel,H,Archita,66
+10/22/2025,Auto,Travel,H,Archita,40
+10/23/2025,Auto,Travel,H,Archita,40
+10/23/2025,Auto,Travel,H,Archita,72
+10/23/2025,Cab,Travel,H,Archita,183
+10/23/2025,Chole bhature,Food,H,Archita,260
+10/23/2025,Rajma chawal,Food,H,Archita,110
+10/23/2025,Lassi,Food,H,Archita,210
+10/23/2025,Cab return,Travel,H,Archita,126
+10/24/2025,Auto,Travel,H,Archita,60
+10/24/2025,Auto,Travel,H,Archita,60
+10/24/2025,Ishita paid Manyaa,Personal,H,Archita,45.75
+10/24/2025,Manyaa paid Ishita,Personal,H,Archita,27.5
+10/24/2025,Archita paid Ishita,Personal,H,Archita,1
+10/24/2025,Auto,Travel,H,Archita,46
+10/24/2025,Auto,Travel,H,Archita,60
+10/24/2025,Lunch thali,Food,H,Archita,50
+10/24/2025,Archita paid Manyaa,Personal,H,Archita,45.75
+10/24/2025,Manyaa paid Archita,Personal,H,Archita,96.5
+10/26/2025,Fried rice,Food,H,Archita,120
+10/26/2025,Auto yesterday,Travel,H,Archita,62
+10/26/2025,Auto morninb,Travel,H,Archita,60
+10/27/2025,Morning auto,Travel,H,Archita,66
+10/27/2025,Kadi chawal,Food,H,Archita,100
+10/27/2025,Auto,Travel,H,Archita,60
+10/27/2025,Auto,Travel,H,Archita,60
+10/27/2025,Auto,Travel,H,Archita,40
+10/27/2025,Food,Food,H,Archita,80
+10/28/2025,Auto morning,Travel,H,Archita,60
+10/28/2025,Cab auto gk,Travel,H,Archita,322
+10/28/2025,Big chill,Food,H,Archita,388
+10/28/2025,Juggernaut,Food,H,Archita,745
+10/28/2025,Chai,Food,H,Archita,24
+10/21/2025,Train from mum to hyd,Travel,H,Ashmita,1165
+10/21/2025,Auto +local,Travel,H,Ashmita,100
+10/21/2025,Chips namkeen train,Food,H,Ashmita,65
+10/21/2025,Zero 40,Miscellaneous,H,Ashmita,2353
+10/21/2025,Cab,Travel,H,Ashmita,345
+10/21/2025,Booze,Personal,H,Ashmita,660
+10/21/2025,Cab,Travel,H,Ashmita,550
+10/21/2025,Cigs,Entertainment,H,Ashmita,660
+10/21/2025,Blinkit,Food,H,Ashmita,383
+10/21/2025,Lunch,Food,H,Ashmita,148
+10/21/2025,Cab station,Travel,H,Ashmita,277
+10/24/2025,Food,Food,H,Ashmita,150
+10/24/2025,Go Karting,Entertainment,H,Ashmita,1300
+10/24/2025,Petrol,Travel,H,Ashmita,120
+10/24/2025,Hundred,Miscellaneous,H,Ashmita,1080
+10/24/2025,Instamart,Food,H,Ashmita,210
+10/24/2025,Chai,Food,H,Ashmita,30
+10/24/2025,Light,Miscellaneous,H,Ashmita,330
+10/26/2025,Chutney guntur,Food,H,Ashmita,200
+10/26/2025,Cab,Travel,H,Ashmita,168
+10/26/2025,Tix,Miscellaneous,H,Ashmita,780
+10/26/2025,Pop,Food,H,Ashmita,780
+10/26/2025,Cab,Travel,H,Ashmita,210
+10/26/2025,Mix,Miscellaneous,H,Ashmita,200
+10/26/2025,Kulcha,Food,H,Ashmita,300
+10/26/2025,Blinkiy,Food,H,Ashmita,300
+10/26/2025,Irctc,Travel,H,Ashmita,1900
+10/26/2025,Tick,Miscellaneous,H,Ashmita,1100
+10/28/2025,Anmol G. paid Ashmita P.,Personal,H,Ashmita,279
+10/21/2025,Cab morning,Travel,D,Harsh,798
+10/21/2025,Cooking n blinkit,Food,D,Harsh,892
+10/21/2025,Daary,Miscellaneous,D,Harsh,1350
+10/21/2025,Cab FSM GGN to Tulip,Travel,D,Harsh,250
+10/21/2025,Smokes and cranberry,Entertainment,D,Harsh,280
+10/21/2025,Cab by pranjal,Travel,D,Harsh,617
+10/21/2025,Sharvi S. paid Shivika K.,Personal,D,Harsh,137
+10/21/2025,Yarana,Miscellaneous,D,Harsh,700
+10/21/2025,Shivika K. paid Sharvi S.,Personal,D,Harsh,100
+10/21/2025,Baba cafe 22 oct,Food,D,Harsh,200
+10/21/2025,Sharvi S. paid Harsh J.,Personal,D,Harsh,347.34
+10/22/2025,Baba,Miscellaneous,D,Harsh,360
+10/22/2025,Harsh J. paid Ashmita P.,Personal,D,Harsh,13
+10/22/2025,Harsh J. paid Pranjal,Personal,D,Harsh,5.59
+10/22/2025,Harsh J. paid Sharvi S.,Personal,D,Harsh,84.33
+10/22/2025,Pranjal paid Sharvi S.,Personal,D,Harsh,78.75
+10/22/2025,Pranjal paid Ashmita P.,Personal,D,Harsh,134.99
+10/22/2025,Shivika K. paid Harsh J.,Personal,D,Harsh,784.53
+10/22/2025,Aditya paid Harsh J.,Personal,D,Harsh,124
+10/23/2025,Baba,Miscellaneous,D,Harsh,210
+10/23/2025,(Harsh) paid Harsh J.,Personal,D,Harsh,148.67
+10/23/2025,Harsh J. paid Pranjal,Personal,D,Harsh,42
+10/23/2025,Harsh J. paid Shivika K.,Personal,D,Harsh,121.34
+10/23/2025,Yaarana food,Food,D,Harsh,225
+10/23/2025,Brm food night,Food,D,Harsh,680
+10/23/2025,Ration,Food,D,Harsh,160
+10/23/2025,Harsh J. paid Shivika K.,Personal,D,Harsh,136
+10/23/2025,Brm snacks,Food,D,Harsh,200
+10/23/2025,Pranjal paid Sharvi S.,Personal,D,Harsh,80
+10/23/2025,Sharvi S. paid Shivika K.,Personal,D,Harsh,239.34
+10/23/2025,Harsh J. paid Shivika K.,Personal,D,Harsh,103.33
+10/24/2025,Shivika K. paid Harsh J.,Personal,D,Harsh,75
+10/24/2025,Sharvi S. paid Harsh J.,Personal,D,Harsh,75
+10/24/2025,Sharvi S. paid Pranjal,Personal,D,Harsh,42
+10/24/2025,Alcohol,Personal,D,Harsh,2325
+10/24/2025,Dinner,Food,D,Harsh,531
+10/24/2025,Zepto Shivika,Food,D,Harsh,170
+10/24/2025,Eat Club,Food,D,Harsh,341
+10/24/2025,Maggi,Food,D,Harsh,200
+10/24/2025,Kanika M. paid Harsh J.,Personal,D,Harsh,40
+10/24/2025,Sharvi S. paid Harsh J.,Personal,D,Harsh,40
+10/25/2025,Sharvi S. paid Harsh J.,Personal,D,Harsh,106.2
+10/25/2025,LUNCH,Food,D,Harsh,480
+10/25/2025,Aditya paid Sharvi S.,Personal,D,Harsh,180
+10/25/2025,(Harsh) paid Sharvi S.,Personal,D,Harsh,233
+10/25/2025,Ronak G. paid Sharvi S.,Personal,D,Harsh,80
+10/25/2025,Sharvi S. paid Shivika K.,Personal,D,Harsh,34
+10/25/2025,Ashmita P. paid Pranjal,Personal,D,Harsh,42
+10/26/2025,Shivika K. paid Harsh J.,Personal,D,Harsh,500
+10/26/2025,Harsh J. paid Sharvi S.,Personal,D,Harsh,80
+10/27/2025,Ashmita P. paid Harsh J.,Personal,D,Harsh,881.2
+10/27/2025,Shivika flat,Miscellaneous,D,Harsh,180
+10/27/2025,Pranjal paid Harsh J.,Personal,D,Harsh,106.2
+10/27/2025,Baba cafe,Food,D,Harsh,300
+10/27/2025,Sharvi S. paid Harsh J.,Personal,D,Harsh,100
+10/28/2025,Baba Cafe,Food,D,Harsh,620
+10/28/2025,Ashmita P. paid Sharvi S.,Personal,D,Harsh,151.33
+10/28/2025,Yaarana cafe-16 oct,Food,D,Harsh,370
+10/21/2025,Cab,Travel,D,Mehar,130
+10/21/2025,Cab 2,Travel,D,Mehar,151
+10/22/2025,Smoks,Personal,D,Mehar,170
+10/22/2025,Smoks,Personal,D,Mehar,120
+10/22/2025,Haldiram,Food,D,Mehar,88
+10/22/2025,Auto,Travel,D,Mehar,140
+10/23/2025,Golgappe,Food,D,Mehar,120
+10/23/2025,Bhelpuri,Food,D,Mehar,200
+10/23/2025,Momo,Food,D,Mehar,100
+10/24/2025,Mehar S. paid Nandini S.,Payments,D,Mehar,131.5
+10/24/2025,Mehar S. paid Ashmita P.,Payments,D,Mehar,33.75
+10/24/2025,Mehar S. paid Arunima D.,Payments,D,Mehar,12.67
+10/24/2025,Ashmita P. paid Nandini S.,Payments,D,Mehar,43.75
+10/25/2025,Smokes,Personal,D,Mehar,120
+10/25/2025,Cab,Travel,D,Mehar,166
+10/25/2025,Cab to ggn,Travel,D,Mehar,417
+10/25/2025,Cab to delhi,Travel,D,Mehar,480
+10/25/2025,Arunima D. paid Nandini S.,Payments,D,Mehar,84.84
+10/25/2025,Akshita F. paid Nandini S.,Payments,D,Mehar,74
+10/26/2025,Ashmita P. paid Mehar S.,Payments,D,Mehar,85.75
+10/26/2025,Ashmita P. paid Arunima D.,Payments,D,Mehar,25.59
+10/21/2025,(Harsh) paid Sharvi S.,Payments,H,Shivika,233
+10/21/2025,Ronak G. paid Sharvi S.,Payments,H,Shivika,80
+10/21/2025,Sharvi S. paid Shivika K.,Payments,H,Shivika,34
+10/21/2025,Ashmita P. paid Pranjal,Payments,H,Shivika,42
+10/21/2025,Maggi,Groceries,H,Shivika,200
+10/21/2025,Kanika M. paid Harsh J.,Payments,H,Shivika,40
+10/21/2025,Sharvi S. paid Harsh J.,Payments,H,Shivika,40
+10/22/2025,Shivika K. paid Harsh J.,Payments,H,Shivika,500
+10/23/2025,Harsh J. paid Sharvi S.,Payments,H,Shivika,80
+10/23/2025,Ashmita P. paid Harsh J.,Payments,H,Shivika,881.2
+10/23/2025,Shivika flat,Miscellaneous,H,Shivika,180
+10/24/2025,Pranjal paid Harsh J.,Payments,H,Shivika,106.2
+10/24/2025,Baba cafe,Food,H,Shivika,300
+10/24/2025,Sharvi S. paid Harsh J.,Payments,H,Shivika,100
+10/25/2025,Baba Cafe,Food,H,Shivika,620
+10/25/2025,Ashmita P. paid Sharvi S.,Payments,H,Shivika,151.33
+10/25/2025,Yaarana cafe-16 oct,Food,H,Shivika,370
+10/26/2025,Cab morning,Travel,H,Shivika,798
+10/26/2025,Cooking n blinkit,Groceries,H,Shivika,892
+10/26/2025,Harsh J. paid Sharvi S.,Payments,H,Shivika,84.33
+10/26/2025,Pranjal paid Sharvi S.,Payments,H,Shivika,78.75
+10/26/2025,Dinner,Food,H,Shivika,531
+10/26/2025,Zepto Shivika,Groceries,H,Shivika,170
+10/27/2025,Daary,Miscellaneous,H,Shivika,1350
+10/27/2025,Cab FSM GGN to Tulip,Travel,H,Shivika,250
+10/27/2025,Smokes and cranberry,Personal,H,Shivika,280
+10/27/2025,Cab by pranjal,Travel,H,Shivika,617
+10/27/2025,Sharvi S. paid Shivika K.,Payments,H,Shivika,137
+10/27/2025,Yarana,Miscellaneous,H,Shivika,700
+10/27/2025,Shivika K. paid Sharvi S.,Payments,H,Shivika,100
+10/27/2025,Baba,Miscellaneous,H,Shivika,360
+10/27/2025,Harsh J. paid Ashmita P.,Payments,H,Shivika,13
+10/27/2025,Pranjal paid Ashmita P.,Payments,H,Shivika,134.99
+10/27/2025,Baba,Miscellaneous,H,Shivika,210
+10/27/2025,(Harsh) paid Harsh J.,Payments,H,Shivika,148.67
+10/27/2025,Harsh J. paid Pranjal,Payments,H,Shivika,42
+10/27/2025,Harsh J. paid Shivika K.,Payments,H,Shivika,121.34
+10/27/2025,Yaarana food,Food,H,Shivika,225
+10/27/2025,Shivika K. paid Harsh J.,Payments,H,Shivika,75
+10/27/2025,Sharvi S. paid Harsh J.,Payments,H,Shivika,75
+10/27/2025,Sharvi S. paid Pranjal,Payments,H,Shivika,42
+10/27/2025,Eat Club,Food,H,Shivika,341
+10/27/2025,Sharvi S. paid Harsh J.,Payments,H,Shivika,106.2
+10/27/2025,LUNCH,Food,H,Shivika,480
+10/27/2025,Aditya paid Sharvi S.,Payments,H,Shivika,180
+10/27/2025,Baba cafe 22 oct,Food,H,Shivika,200
+10/27/2025,Sharvi S. paid Harsh J.,Payments,H,Shivika,347.34
+10/27/2025,Shivika K. paid Harsh J.,Payments,H,Shivika,784.53
+10/27/2025,Aditya paid Harsh J.,Payments,H,Shivika,124
+10/28/2025,Harsh J. paid Pranjal,Payments,H,Shivika,5.59
+10/28/2025,Alcohol,Food,H,Shivika,2325
+10/28/2025,Brm food night,Food,H,Shivika,680
+10/28/2025,Ration,Groceries,H,Shivika,160
+10/28/2025,Harsh J. paid Shivika K.,Payments,H,Shivika,136
+10/28/2025,Brm snacks,Groceries,H,Shivika,200
+10/28/2025,Pranjal paid Sharvi S.,Payments,H,Shivika,80
+10/28/2025,Sharvi S. paid Shivika K.,Payments,H,Shivika,239.34
+10/28/2025,Harsh J. paid Shivika K.,Payments,H,Shivika,103.33
+10/21/2025,Fruits,Food,H,Rajat,110
+10/21/2025,Auto to college,Travel,H,Rajat,60
+10/21/2025,Lunch,Food,H,Rajat,180
+10/22/2025,Auto to college,Travel,H,Rajat,20
+10/22/2025,Lunch,Food,H,Rajat,70
+10/22/2025,Movie,Entertainment,H,Rajat,650
+10/22/2025,Snacks,Food,H,Rajat,142
+10/22/2025,Bodywash,Personal,H,Rajat,218
+10/23/2025,Auto to college,Travel,H,Rajat,20
+10/23/2025,Canteen Lunch,Food,H,Rajat,82
+10/23/2025,Snacks,Food,H,Rajat,100
+10/24/2025,Auto to college,Travel,H,Rajat,40
+10/24/2025,Canteen lunch,Food,H,Rajat,120
+10/25/2025,Snacks,Food,H,Rajat,226
+10/25/2025,Laundry,Personal,H,Rajat,40
+10/25/2025,Auto to college,Travel,H,Rajat,20
+10/26/2025,Lunch,Food,H,Rajat,210
+10/27/2025,Lunch,Food,H,Rajat,70
+10/27/2025,Auto to college,Travel,H,Rajat,40
+10/27/2025,Haircut,Personal,H,Rajat,200
+10/28/2025,Lunch,Food,H,Rajat,140
+10/28/2025,Auto to college,Travel,H,Rajat,40
+10/21/2025,Auto to college,Travel,H,Bhargavi,40
+10/21/2025,Stationery,Personal,H,Bhargavi,45
+10/21/2025,Lunch,Food,H,Bhargavi,193
+10/22/2025,Auto to college,Travel,H,Bhargavi,40
+10/22/2025,Canteen lunch,Food,H,Bhargavi,140
+10/22/2025,Metro fare,Travel,H,Bhargavi,42
+10/22/2025,Shampoo,Personal,H,Bhargavi,176
+10/23/2025,Auto to college,Travel,H,Bhargavi,40
+10/23/2025,Salon,Personal,H,Bhargavi,720
+10/23/2025,Lunch,Food,H,Bhargavi,60
+10/24/2025,Snacks,Food,H,Bhargavi,226
+10/24/2025,Auto to college,Travel,H,Bhargavi,60
+10/24/2025,Cafe outing,Entertainment,H,Bhargavi,890
+10/25/2025,Lunch,Food,H,Bhargavi,90
+10/25/2025,Room supplies,Personal,H,Bhargavi,67
+10/26/2025,Tea and samosa,Food,H,Bhargavi,30
+10/26/2025,Cafe outing,Entertainment,H,Bhargavi,250
+10/27/2025,Auto to college,Travel,H,Bhargavi,40
+10/27/2025,Canteen lunch,Food,H,Bhargavi,70
+10/28/2025,Auto to college,Travel,H,Bhargavi,60
+10/28/2025,Lunch,Food,H,Bhargavi,160
+10/21/2025,Auto to college,Travel,H,Aash,60
+10/21/2025,Canteen lunch,Food,H,Aash,70
+10/22/2025,Lunch,Food,H,Aash,112
+10/22/2025,Auto to college,Travel,H,Aash,60
+10/23/2025,Metro fare,Travel,H,Aash,32
+10/23/2025,Laundry,Personal,H,Aash,45
+10/23/2025,Snacks,Food,H,Aash,160
+10/23/2025,Room supplies,Personal,H,Aash,99
+10/24/2025,Auto to college,Travel,H,Aash,30
+10/24/2025,Canteen lunch,Food,H,Aash,100
+10/24/2025,Snacks,Food,H,Aash,24
+10/25/2025,Canteen Lunch,Food,H,Aash,140
+10/25/2025,Stationery,Personal,H,Aash,60
+10/26/2025,Lunch,Food,H,Aash,50
+10/27/2025,Auto to college,Travel,H,Aash,60
+10/27/2025,Canteen Lunch,Food,H,Aash,70
+10/28/2025,Lunch,Food,H,Aash,100
+10/21/2025,Canteen lunch,Food,H,Abhishek,200
+10/21/2025,Auto to college,Travel,H,Abhishek,60
+10/22/2025,Canteen lunch,Food,H,Abhishek,260
+10/22/2025,Metro fare,Travel,H,Abhishek,32
+10/23/2025,Breakfast,Food,H,Abhishek,140
+10/23/2025,Lunch,Food,H,Abhishek,85
+10/24/2025,Shampoo,Personal,H,Abhishek,299
+10/24/2025,Room supplies,Personal,H,Abhishek,90
+10/25/2025,Snacks,Food,H,Abhishek,60
+10/25/2025,Auto to college,Travel,H,Abhishek,60
+10/26/2025,Streaming subscription,Entertainment,H,Abhishek,149
+10/26/2025,Laundry,Personal,H,Abhishek,50
+10/26/2025,Tea and samosa,Food,H,Abhishek,24
+10/27/2025,Metro fare,Travel,H,Abhishek,52
+10/27/2025,Lunch,Food,H,Abhishek,170
+10/27/2025,Cafe outing,Entertainment,H,Abhishek,486
+10/28/2025,Breakfast,Food,H,Abhishek,60
+10/28/2025,Lunch,Food,H,Abhishek,80
+10/21/2025,Salon,Personal,H,Ditsya,1000
+10/21/2025,Auto to college,Travel,H,Ditsya,40
+10/21/2025,Tea,Food,H,Ditsya,12
+10/21/2025,Lunch,Food,H,Ditsya,70
+10/22/2025,Lunch,Food,H,Ditsya,82
+10/22/2025,Café Outing,Entertainment,H,Ditsya,560
+10/22/2025,Auto to college,Travel,H,Ditsya,40
+10/23/2025,Auto to college,Travel,H,Ditsya,60
+10/23/2025,Canteen lunch,Food,H,Ditsya,220
+10/24/2025,Lunch,Food,H,Ditsya,70
+10/25/2025,Lunch,Food,H,Ditsya,120
+10/25/2025,Auto to college,Travel,H,Ditsya,60
+10/25/2025,Room supplies,Personal,H,Ditsya,76
+10/26/2025,Room supplies,Personal,H,Ditsya,250
+10/26/2025,Cab ride,Travel,H,Ditsya,195
+10/27/2025,Auto to college,Travel,H,Ditsya,20
+10/27/2025,Lunch,Food,H,Ditsya,50
+10/28/2025,Auto to college,Travel,H,Ditsya,60
+10/28/2025,Lunch,Food,H,Ditsya,70

@@ -1,1 +1,1 @@
-This is a project cretaed from Fundamentals of Big Data Analysis project
+This is a project cretaed from Fundamentals of Big Data Analysis project, in whiuch we tracked weekly expenses of a set of MBA students and tried to find out the optimal montly expenditure for a student living at home and a student living in hostel for a month
